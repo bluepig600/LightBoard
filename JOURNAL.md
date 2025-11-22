@@ -19,3 +19,4 @@ I edited the 3d model of the case so I could have the power cable coming out.
 And the esp32 could fit inside.
 I also realized I'm going to need some wire for this so I added that to the bill of materials.
 I also edited the thickness of the case between where the leds strip is going to be and the outside because the light wasn't going to be able to go through there. I also exported all the files too.
+The led strip is going to be powered from it's power injection wires and I will connect the power from the led strip to the vin pin with the connector the led strip has and I will also use the connector for the data and ground.
