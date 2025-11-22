@@ -13,7 +13,7 @@ The case was really annoying as I'm using FreeCAD and it's my second time making
 I was going to make an individual spot for each led to go in but freecad was adding and removing a bunch of constraints while I was making it so I just decided to not do that part. I wasted around 2 hours on that.
 <img width="1460" height="476" alt="image" src="https://github.com/user-attachments/assets/722aa11f-8bc2-4005-864d-3384b5fd231b" />
 
-## 3. Edited 3d model
+## 3. Edited 3d model (0.6 hrs)
 <img width="1283" height="511" alt="image" src="https://github.com/user-attachments/assets/fb803ed3-db71-4dc8-96cf-51792b6ab006" />
 I edited the 3d model of the case so I could have the power cable coming out.
 And the esp32 could fit inside.
